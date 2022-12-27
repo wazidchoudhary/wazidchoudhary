@@ -2,12 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm MOHD WAZID ALI</h1>
 <h3 align="center">A multidisciplinary Full-Stack developer from India</h3>
-<img align="right" alt="Coding" height="300" src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/profile%2FScreenshot_20210821-010752_Facebook.jpg___524Screenshot_20210821-010752_Facebook.jpg?alt=media&token=3c68f7fc-5b13-46d4-803e-9cce8a6afe4e" />
-
-<p align="left">
     <img src="https://lh3.googleusercontent.com/6wU_gQFUd78tQnjGC4mLAP-Uf1X3HiFYmZQkgeUjiGOnXic2N_EGyITN-JNAr46y9mjJ6PlXg0JShfVsbGz2ukabG3BiIvnRVBJNLTz0ok5AD_CzPulv_rioKcdRsJ-h4vXa-ztVGN3oQQs5KebycgRjmPhIjr5w5qHlOXhJKyDkFdaYaODECuOPCGiJN31cNevkBnraft0BJaQl1-mz-UI9gUDMe97py7frKXh1DpyK4XrG4N-9zRNJ0QtpnkbS73urBXdZe9lixn9KygCStszZ8FcWmyNVdDDyrXGQMOFk6D99O2AAne6eF9RWN7wiScpsGGbmCHCxBCBKA6AeikkSxaSTecbjyq6O1Y5UT_q9tnx-CMPTWouL6TEjbC11X81-PK66AjTc-HIW_LqoxpxsPKQybeSi56X_kt2kDxS1arK1Dsi4chhJEzeaM9dHrzqkwdylwuAfR2NyfX5s_jO3cRSaxkV_UzlV2xcs0l7KTYo_mkG83yq2u4tebhDEQzeZ6FSN8oLERPUVzSlqyURGmKnE2L3dbMgtIMnxIlFUtPeEoWWD6ZReI8SJnQaTlv9x_mSXapjpJC0X95mcq8kz0Bpt8A7-f8U4j-5c7sRrsh-shu5VsH44dkYwqrcofLpUlxzQIMD9_T9vahmhzYrsZTJ96htC_kOfRZ3AIo1loTAoQmTaL7Z_M9476bQvlo_R7hce4fcSzQH_7q5walWxNl2GCcgK8R2PxR1TSWbkoBvEzUjaLJnLw-7nvttD7AX2FWerDmk2hrmgGjO4NZ1Yqknvtejn3q7i-JFlMq2WyQ-_cYHZhqMJE8Yevojrwj2UIFYLjUerOp9_yjY8adAapD4_elECIK30wxZV7Ie6lo8xIONq7uQQlJwkCyHGQwGrg79kYmVc4WYtV3BPCLMd9UkFprA4ikTz0WXBKSko-81V6q80rji1RU_-uL2V4hRse9MpzoH3NPnioXGYy-g5MB66Y5OuFneTVMhLdZtWR8hQtf6646g=w884-h1572-no?authuser=0"
-        alt="wazid ali" />
+        alt="wazid ali" height="500" width="400" />
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat"
+        alt="suboorkhan" />
 </p>
+
 
 - 🔭 I’m currently working on [Chetu India](https://www.chetu.com/)
 
