@@ -10,13 +10,13 @@
 </p>
 
 
-- 🔭 I’m currently working on [Chetu India](https://www.chetu.com/)
+- 🔭 I’m currently working on [Krapton IT Consultancy](https://www.krapton.com/)
 
 - 🌱 I’m currently learning **Docker,Microservices**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 💬 Ask me about **Javascript Typescript Angular React Node**
+- 💬 Ask me about **Javascript Typescript Angular React NextJs Electron Node**
 
 - 📫 How to reach me **aliwazid551@gmail.com**
 
