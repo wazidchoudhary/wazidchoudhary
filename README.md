@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm MOHD WAZID ALI</h1>
 <h3 align="center">A multidisciplinary Full-Stack developer from India</h3>
-<img align="right" alt="Coding" height="300" src="https://lh3.googleusercontent.com/37nVJqGLxpaxA2aUK711TChzR7ITw4Iem2yaVMbt-3mE0H_8rc5v0hoTWGyvWLlFAXaCXnig1ZlFwf-7_F7Tzlll38RdKp5N69UUrYuvaT9pwNCQMTlpHhAiP8eW3xrxpATJwby9NyF-AO652kbKvoxxddkwzeyO4b5H8gm49TsF9ZqVrl-B2CxH6STiQkvcAEwo_5l6iaIMhpkVSnAEfCVyRulKYF09x8qoJgm9SfGpcS-BNyEm8No-Pu9K4YHj4Mug6CCIeDzrh7AIz1irVXBCb7GOrntPjMtrd72U-km3apzTRGbKDihpUPqI1I0nKF5vOb-HiwFnJpWBpcaQovLEScPwh7oazrbds8OF9dK-ekEVqlNA8XnqwZbnyBQwWa9UIaWUKMCJLmQEe5NkabBPfa5in7c666bxVGLa49O5eDcqsWgQCtFA445BwGHiTjGdgTsqv8w09kAdPG1mTz0z0MunwguxgmukhDKiSPdobWsULekH0CzjVLvTiCB1jkV5m1KthVUrYk5BEfQ_OUXSGtqF2ZWasXHIztcq8vQj3WDifYjM54zEnAC0F6ihRcIe2IUrCWc3q4SJ_a66KQF7tqg3dkxJHvDNk08CkmK4Qi4u5cGbqhTKtnIUbVqfi_L4k668zvgQzoWknIaOFLj8BHdgDm040-QNeYa5jHxoI54aGCcZWvyYNDKpTCjM3H9C5Wa_NBiz8K4K1UGFo7f72Hohtlk6zZIuDIaHsFgPdZKolN48v5OgYU16yVJWnkf70ltdnqhoagS1beETNEDR8NZl6ZUoyy6MZsowM6js3-e3CoBq3B8sgckPAKRFSmOOLixASe8df97eVE-d5IR7U8zII1cwCA2dQ-xE5jqyj_KH9PlfGWlZHxILkZtQ_84dFmy3gCxsnRR1Ga9kvrspgUitndOfDj24x4nTthmVNDUaT_l5twqS7ep2_M-5Sipig2z84o_PB-M6rq8z3i4GIPHUUvCrSSAGt36HYRBA3U8_FWnS8Mg=w1266-h1572-no?authuser=0"
-        alt="wazid ali" />
+
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat"
         alt="wazid" />
