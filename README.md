@@ -6,17 +6,17 @@
         alt="wazid ali" />
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat"
-        alt="suboorkhan" />
+        alt="wazid" />
 </p>
 
 
-- 🔭 I’m currently working on [Krapton IT Consultancy](https://www.krapton.com/)
+- 🔭 I’m currently working on [Technosapphire Private Limited]
 
-- 🌱 I’m currently learning **Docker,Microservices**
+- 🌱 I’m currently learning **AI ML**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 💬 Ask me about **Javascript Typescript Angular React NextJs Electron Node**
+- 💬 Ask me about **Javascript Typescript Angular React NextJs ReactNative Electron Nest**
 
 - 📫 How to reach me **aliwazid551@gmail.com**
 
