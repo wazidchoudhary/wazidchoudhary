@@ -12,7 +12,7 @@
 
 <!-- Profile Views + Followers + GitHub Stars -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=wazidchoudhary&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-100%2B-0e75b6?style=for-the-badge" alt="Profile Views"/>
   &nbsp;
   <a href="https://github.com/wazidchoudhary?tab=followers">
     <img src="https://img.shields.io/github/followers/wazidchoudhary?style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github&label=FOLLOWERS" alt="Followers"/>
