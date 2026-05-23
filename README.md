@@ -1,81 +1,165 @@
-[![MasterHead](https://static01.nyt.com/images/2020/12/23/business/23Techfix-illo/23Techfix-illo-superJumbo.gif)]()
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm MOHD WAZID ALI</h1>
-<h3 align="center">A multidisciplinary Full-Stack developer from India</h3>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohd%20Wazid%20Ali&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Open%20Source%20Lover&descAlignY=55&descSize=16"/>
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat"
-        alt="wazid" />
-</p>
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Wazid+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Angular+%7C+NestJS;React+Native+%7C+Electron+Dev;AI+%2F+ML+Explorer+%F0%9F%A4%96;Always+building+something+cool+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
-
-- 🔭 I’m currently working on [Technosapphire Private Limited]
-
-- 🌱 I’m currently learning **AI ML**
-
-- 👯 I’m looking to collaborate on **Open Source**
-
-- 💬 Ask me about **Javascript Typescript Angular React NextJs ReactNative Electron Nest**
-
-- 📫 How to reach me **aliwazid551@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-
-[linkedIn](https://www.linkedin.com/in/mohd-wazid-ali-8373aa185/)
 <br/>
 
-<h1 align="center">Languages and Tools:</h1>
-<p align="center">
-    <a href="#" target="_blank" rel="noreferrer">
-        <img style="object-fit: cover;" height="40"  src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/tags%2FReact-icon.svg.png2022-09-07T21%3A50%3A04.880Z?alt=media&token=7530eb4d-969e-46d7-bf4a-879cff8ffcec" 
-             />
-    </a>
-     <a href="#" target="_blank" rel="noreferrer">
-        <img height="40"  src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/tags%2FTypescript_logo_2020.svg.png2022-09-07T21%3A50%3A59.507Z?alt=media&token=20fdfd2a-6572-4dfa-9625-92d885b786e2" 
-             />
-    </a>
-       <a href="#" target="_blank" rel="noreferrer">
-        <img height="40"  src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/tags%2F5847ea22cef1014c0b5e4833.png2022-09-07T21%3A51%3A48.267Z?alt=media&token=5bafd23a-fa37-478a-b69c-892aa8058155" 
-             />
-    </a>
-        <a href="#" target="_blank" rel="noreferrer">
-        <img height="40"  src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/tags%2F5848309bcef1014c0b5e4a9a.png2022-09-07T21%3A52%3A17.475Z?alt=media&token=dc553302-18df-4a3e-8251-3d7538ce0d18" 
-             />
-    </a>
-       </a>
-        <a href="#" target="_blank" rel="noreferrer">
-        <img height="40"  src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/tags%2Fnodejs-logo-FBE122E377-seeklogo.com.png2022-09-07T21%3A54%3A46.658Z?alt=media&token=77c98739-4caa-46ca-9b71-256df5164854" 
-             />
-    </a>
-            <a href="#" target="_blank" rel="noreferrer">
-        <img height="40"  src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/tags%2F62a7475d223343fbc2207cff.png2022-09-07T21%3A57%3A16.343Z?alt=media&token=35b45df6-343b-4623-82ef-31b112e111af" 
-             />
-    </a>
-     <a href="#" target="_blank" rel="noreferrer">
-        <img height="40"  src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/tags%2F5847f40ecef1014c0b5e488a.png2022-09-07T21%3A57%3A52.801Z?alt=media&token=3ff744fb-5c31-4405-89fe-e3370750f014" 
-             />
-    </a>
-         <a href="#" target="_blank" rel="noreferrer">
-        <img height="40"  src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/tags%2FJavaScript-logo.png2022-09-07T22%3A07%3A53.003Z?alt=media&token=424ab6dc-5f2b-47be-9bf6-a593a68f6177" 
-             />
-    </a>
-       <a href="#" target="_blank" rel="noreferrer">
-        <img height="40"  src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/tags%2Fvertical-logo-monochromatic.webp2022-09-07T22%3A09%3A29.389Z?alt=media&token=4151dde7-14e8-4007-8598-bc44b268d20c" 
-             />
-    </a>
-           <a href="#" target="_blank" rel="noreferrer">
-        <img height="40"  src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/tags%2F58480a44cef1014c0b5e4917.png2022-09-07T22%3A10%3A09.592Z?alt=media&token=2738f86e-6321-4706-83c0-1615944db63a" 
-             />
-    </a>
-               <a href="#" target="_blank" rel="noreferrer">
-        <img height="40"  src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/tags%2Fbootstrap-logo.png2022-09-07T22%3A21%3A00.058Z?alt=media&token=f6556aa6-80c7-4e56-a72e-24ec5f491137" 
-             />
-                       <a href="#" target="_blank" rel="noreferrer">
-        <img height="40"  src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/tags%2FData-structure-and-algorithms.png2022-09-07T22%3A01%3A25.710Z?alt=media&token=2542007b-82cd-4581-b722-b94745d81182" 
-             />
-    </a>
-          <a href="#" target="_blank" rel="noreferrer">
-        <img height="40"  src="https://firebasestorage.googleapis.com/v0/b/personal-36b0f.appspot.com/o/tags%2F25231.png2022-09-07T22%3A02%3A59.833Z?alt=media&token=a62cba92-42fc-4991-9cd0-dee2768eac3d" 
-             />
-    </a>
+<!-- Profile Views + Followers + GitHub Stars -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=kimjayden&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;
+  <a href="https://github.com/kimjayden?tab=followers">
+    <img src="https://img.shields.io/github/followers/kimjayden?style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github&label=FOLLOWERS" alt="Followers"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI%2FML-brightgreen?style=for-the-badge" alt="Focus"/>
 </p>
+
+</div>
+
+---
+
+## 🙋‍♂️ About Me
+
+```typescript
+const wazid = {
+  name        : "Mohd Wazid Ali",
+  role        : "Full-Stack Developer",
+  company     : "Technosapphire Private Limited 🏢",
+  location    : "India 🇮🇳",
+  learning    : ["AI", "ML", "LLMs"],
+  collaborate : "Open Source Projects 🤝",
+  stack       : ["React", "Next.js", "Angular", "NestJS", "React Native", "Electron"],
+  contact     : "aliwazid551@gmail.com 📬",
+  funFact     : "I debug with console.log and I'm not ashamed 😄"
+};
+```
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+### ⚙️ Backend & Runtime
+<p>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+### 📱 Mobile & Desktop
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
+</p>
+
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/redis-CC0000?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+### 🤖 AI / ML (Currently Learning)
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+### 🔧 DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/kimjayden">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kimjayden&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimjayden&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimjayden&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kimjayden&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimjayden&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohd-wazid-ali-8373aa185/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:aliwazid551@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/kimjayden" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<br/>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
