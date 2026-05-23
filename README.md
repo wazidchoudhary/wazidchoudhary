@@ -5,17 +5,17 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Wazid+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Angular+%7C+NestJS;React+Native+%7C+Electron+Dev;AI+%2F+ML+Explorer+%F0%9F%A4%96;Always+building+something+cool+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Wazid+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Angular+%7C+NestJS;React+Native+%7C+Flutter+%7C+Electron+%7C+Tauri;Rust+%7C+Go+%7C+Node.js+Backend+Dev;AI+%2F+ML+Explorer+%F0%9F%A4%96;Always+building+something+cool+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Profile Views + Followers + GitHub Stars -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=kimjayden&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=wazidchoudhary&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
   &nbsp;
-  <a href="https://github.com/kimjayden?tab=followers">
-    <img src="https://img.shields.io/github/followers/kimjayden?style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github&label=FOLLOWERS" alt="Followers"/>
+  <a href="https://github.com/wazidchoudhary?tab=followers">
+    <img src="https://img.shields.io/github/followers/wazidchoudhary?style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github&label=FOLLOWERS" alt="Followers"/>
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI%2FML-brightgreen?style=for-the-badge" alt="Focus"/>
@@ -35,7 +35,8 @@ const wazid = {
   location    : "India 🇮🇳",
   learning    : ["AI", "ML", "LLMs"],
   collaborate : "Open Source Projects 🤝",
-  stack       : ["React", "Next.js", "Angular", "NestJS", "React Native", "Electron"],
+  stack       : ["React", "Next.js", "Angular", "NestJS", "Rust", "Go",
+                 "React Native", "Flutter", "Electron", "Tauri"],
   contact     : "aliwazid551@gmail.com 📬",
   funFact     : "I debug with console.log and I'm not ashamed 😄"
 };
@@ -63,12 +64,16 @@ const wazid = {
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
-### 📱 Mobile & Desktop
+### 📱 Mobile & 🖥️ Desktop
 <p>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black"/>
 </p>
 
 ### 🗄️ Databases & Cloud
@@ -76,22 +81,26 @@ const wazid = {
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/redis-CC0000?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
-### 🤖 AI / ML (Currently Learning)
+### 🤖 AI / ML
 <p>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
 </p>
 
 ### 🔧 DevOps & Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
@@ -103,16 +112,16 @@ const wazid = {
 
 <div align="center">
 
-<a href="https://github.com/kimjayden">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kimjayden&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<a href="https://github.com/wazidchoudhary">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wazidchoudhary&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimjayden&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazidchoudhary&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </a>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimjayden&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=wazidchoudhary&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -120,7 +129,7 @@ const wazid = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kimjayden&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=wazidchoudhary&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -128,7 +137,7 @@ const wazid = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimjayden&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wazidchoudhary&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -144,7 +153,7 @@ const wazid = {
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="https://github.com/kimjayden" target="_blank">
+  <a href="https://github.com/wazidchoudhary" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
